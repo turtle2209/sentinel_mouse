@@ -6,4 +6,4 @@
 
 | 日期 | 项目 | 更新内容 |
 |------|------|----------|
-| 2026/07/31 | `bsp` `application`| ① 上传了电控代码的bsp和application层 ② 修正了hal库对I2C自动移位地址导致VL351lX激光模块读取不到地址的Bug |
+| 2026/07/31 | `bsp` `application`| ① 上传了电控代码的bsp和application层 <br>② 修正了hal库对I2C自动移位地址导致VL351lX激光模块读取不到地址的Bug |
